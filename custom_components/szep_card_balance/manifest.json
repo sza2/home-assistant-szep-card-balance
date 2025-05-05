@@ -1,0 +1,16 @@
+{
+  "domain": "szep_card_balance",
+  "name": "SZÉP Card balance",
+  "version": "1.0",
+  "documentation": "https://github.com/sza2/home-assistant-szep-card-balance",
+  "issue_tracker": "https://github.com/sza2/home-assistant-szep-card-balance/issues",
+  "dependencies": [],
+  "codeowners": ["@sza2"],
+  "requirements": [
+    "beautifulsoup4",
+    "requests"
+  ],
+  "config_flow": true,
+  "logo": "logo.png",
+  "icon": "icon.png"
+}

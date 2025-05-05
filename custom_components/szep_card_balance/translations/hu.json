@@ -1,0 +1,15 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "SZÉP Kártya egyenleg szenzor",
+        "description": "SZÉP Kártya egyenleg szenzor hozzáadása",
+        "data": {
+          "name": "A szenzor neve",
+          "card_number": "Az OTP SZÉP Kártya kártyaszámának utolsó 8 számjegye",
+          "card_code": "A 3 számjegyű telekód, alapértelmezés szerint a kártyaszám utolsó 3 számjegye"
+        }
+      }
+    }
+  }
+}

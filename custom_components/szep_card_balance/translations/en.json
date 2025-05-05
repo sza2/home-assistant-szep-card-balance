@@ -1,0 +1,15 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Set up SZÉP Card balance sensor",
+        "description": "Create a SZÉP Card balance sensor",
+        "data": {
+          "name": "Sensor Name",
+          "card_number": "The last 8 digit of the OTP SZÉP Card",
+          "card_code": "The 3 digit security code (Telekód), the last 3 digits of the card number by default"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "name": "OTP SZÉP Card balance",
+  "domains": ["szep_card_balance"],
+  "content_in_root": false,
+  "render_readme": true,
+  "country": "HU"
+}
